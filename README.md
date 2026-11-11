@@ -3,7 +3,7 @@
 🚁 **Medical drone delivery for remote communities in Africa, in hours, not days.**
 
 Autonomous cargo drones carrying vaccines, medicines, blood and diagnostics to rural
-clinics and health posts that roads don't reach. Past the early stage, with airframes and
+clinics, health posts and conflict-affected regions that roads can't safely reach. Past the early stage, with airframes and
 payload systems in development and testing out of Quelimane, Zambezia, Mozambique.
 
 - 🌍 **Website** → [gondohealth.com](https://gondohealth.com)
