@@ -10,6 +10,18 @@ payload systems in development and testing out of Quelimane, Zambezia, Mozambiqu
 - 💼 **Hiring** → [gondohealth.com/careers](https://gondohealth.com/careers)
 - 🤝 **Partner** → [gondohealth.com/contact](https://gondohealth.com/contact)
 
+## Open source
+
+Small dependency-free TypeScript utilities for drone logistics, in
+[**gondohealth-utils**](https://github.com/Gondohealth-org/gondohealth-utils):
+
+| file | what it is |
+|---|---|
+| [`geo.ts`](https://github.com/Gondohealth-org/gondohealth-utils/blob/main/geo.ts) | Distance, bearing and no-fly-zone checks between facilities |
+| [`flight-estimate.ts`](https://github.com/Gondohealth-org/gondohealth-utils/blob/main/flight-estimate.ts) | Wind-corrected flight time and battery margin |
+| [`cold-chain.ts`](https://github.com/Gondohealth-org/gondohealth-utils/blob/main/cold-chain.ts) | Temperature excursions in payload sensor logs |
+| [`qgc-plan.ts`](https://github.com/Gondohealth-org/gondohealth-utils/blob/main/qgc-plan.ts) | QGroundControl `.plan` missions for PX4 / ArduPilot |
+
 ## Open tech we're exploring
 
 | project | what for |
