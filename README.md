@@ -1,5 +1,7 @@
 # Gondohealth
 
+**English** | [Português](https://github.com/Gondohealth-org/gondohealth-org/blob/main/README.pt.md)
+
 🚁 **Medical drone delivery for remote communities in Africa, in hours, not days.**
 
 Autonomous cargo drones carrying vaccines, medicines, blood and diagnostics to rural
@@ -12,7 +14,7 @@ payload systems in development and testing out of Quelimane, Zambezia, Mozambiqu
 
 ## Open source
 
-Small dependency-free TypeScript utilities for drone logistics, in
+Small dependency-free utilities for drone logistics, in
 [**gondohealth-utils**](https://github.com/Gondohealth-org/gondohealth-utils):
 
 | file | what it is |
