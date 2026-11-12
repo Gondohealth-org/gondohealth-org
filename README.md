@@ -21,8 +21,8 @@ Small dependency-free TypeScript utilities for drone logistics, in
 | [`flight-estimate.ts`](https://github.com/Gondohealth-org/gondohealth-utils/blob/main/flight-estimate.ts) | Wind-corrected flight time and battery margin |
 | [`cold-chain.ts`](https://github.com/Gondohealth-org/gondohealth-utils/blob/main/cold-chain.ts) | Temperature excursions in payload sensor logs |
 | [`qgc-plan.ts`](https://github.com/Gondohealth-org/gondohealth-utils/blob/main/qgc-plan.ts) | QGroundControl `.plan` missions for PX4 / ArduPilot |
-| [`contingency.ts`](https://github.com/Gondohealth-org/gondohealth-utils/blob/main/contingency.ts) | Point of no return, diversions and routing via charging stations |
-| [`solar.ts`](https://github.com/Gondohealth-org/gondohealth-utils/blob/main/solar.ts) | Sizing solar-powered charging stations |
+| [`contingency.ts`](https://github.com/Gondohealth-org/gondohealth-utils/blob/main/contingency.ts) | Point of no return, diversions and routing via charging or battery-swap stations |
+| [`solar.ts`](https://github.com/Gondohealth-org/gondohealth-utils/blob/main/solar.ts) | Sizing solar-powered charging and battery-swap stations |
 
 ## Open tech we're exploring
 
