@@ -23,6 +23,7 @@ Small dependency-free TypeScript utilities for drone logistics, in
 | [`qgc-plan.ts`](https://github.com/Gondohealth-org/gondohealth-utils/blob/main/qgc-plan.ts) | QGroundControl `.plan` missions for PX4 / ArduPilot |
 | [`contingency.ts`](https://github.com/Gondohealth-org/gondohealth-utils/blob/main/contingency.ts) | Point of no return, diversions and routing via charging or battery-swap stations |
 | [`solar.ts`](https://github.com/Gondohealth-org/gondohealth-utils/blob/main/solar.ts) | Sizing solar-powered charging and battery-swap stations |
+| [`station-panel.qml`](https://github.com/Gondohealth-org/gondohealth-utils/blob/main/station-panel.qml) | Qt / QML touchscreen panel for embedded swap stations |
 
 ## Open tech we're exploring
 
